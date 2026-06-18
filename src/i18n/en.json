@@ -1,0 +1,179 @@
+{
+  "language": {
+    "select_title": "Choose Language",
+    "select_subtitle": "This can be changed in Settings",
+    "ukrainian": "Українська",
+    "english": "English",
+    "confirm": "Continue"
+  },
+  "nav": {
+    "mine": "Mine",
+    "shop": "Shop",
+    "story": "Story",
+    "daily": "Daily",
+    "profile": "Profile"
+  },
+  "top_bar": {
+    "layer": "Layer",
+    "balance": "Carbonance"
+  },
+  "mining": {
+    "title": "Mining",
+    "current_layer": "Current Layer",
+    "progress": "Progress",
+    "total_digs": "Total Digs",
+    "passive_income": "Passive Income",
+    "dig_button": "Dig",
+    "layer_up": "New Layer Unlocked!",
+    "critical_hit": "Critical Hit!",
+    "found": "Found",
+    "carbonance": "Carbonance",
+    "digs_to_next": "digs to next layer",
+    "boost_active": "Boost Active",
+    "boost_dig": "Watch Ad for Boost",
+    "speed_up": "Speed Up",
+    "treasure_double": "Double Treasure",
+    "watch_ad": "Watch Ad"
+  },
+  "layers": {
+    "soil": "Soil",
+    "sand": "Sand",
+    "gravel": "Gravel",
+    "clay": "Clay",
+    "limestone": "Limestone",
+    "sandstone": "Sandstone",
+    "granite": "Granite",
+    "diamond_layer": "Diamond Layer",
+    "magma": "Magma",
+    "core": "Core"
+  },
+  "resources": {
+    "iron": "Iron",
+    "glass": "Glass",
+    "fossils": "Fossils",
+    "quartz": "Quartz",
+    "diamond": "Diamond",
+    "obsidian": "Obsidian",
+    "artifact": "Artifact"
+  },
+  "shop": {
+    "title": "Miner's Shop",
+    "tools": "Tools",
+    "helpers": "Helpers",
+    "tool_level": "Tool Level",
+    "upgrade": "Upgrade",
+    "buy": "Buy",
+    "sell_resources": "Sell Resources",
+    "inventory": "Inventory",
+    "sell_all": "Sell All",
+    "max_level": "Max Level",
+    "not_enough": "Not Enough Carbonance",
+    "helpers_title": "Hire Helpers",
+    "helpers_desc": "Helpers earn passive income",
+    "helpers_income": "income/hr",
+    "hire": "Hire",
+    "remove_ads": "Remove Ads",
+    "remove_ads_desc": "Permanently remove all ads",
+    "stars_purchase": "Buy with Stars",
+    "carbonance_packs": "Carbonance Packs",
+    "pack_small": "Small Pack",
+    "pack_medium": "Medium Pack",
+    "pack_large": "Large Pack"
+  },
+  "tools": {
+    "shovel": "Shovel",
+    "pickaxe": "Pickaxe",
+    "jackhammer": "Jackhammer",
+    "drill": "Drill",
+    "shovel_desc": "Basic tool. Slow but reliable.",
+    "pickaxe_desc": "Better for rocks. +50% efficiency.",
+    "jackhammer_desc": "Powerful. +100% dig efficiency.",
+    "drill_desc": "Best-in-class. +200% efficiency."
+  },
+  "story": {
+    "title": "Journal",
+    "journal": "Grandfather's Journal",
+    "act": "Act",
+    "locked": "Locked",
+    "unlock_at": "Unlocks at layer",
+    "grandfather_secret": "Grandfather's Secret",
+    "act_titles": {
+      "1": "Soil & Sand",
+      "2": "Gravel & Clay",
+      "3": "Limestone & Sandstone",
+      "4": "Granite & Diamond",
+      "5": "Magma & Core"
+    },
+    "intro": "You are the heir to an abandoned mine. Your grandfather's journal reveals secrets about \"Carbonance\" — a rare mineral that could change the world."
+  },
+  "daily": {
+    "title": "Daily Reward",
+    "streak": "Daily Streak",
+    "day": "Day",
+    "claim": "Claim Reward",
+    "claimed": "Already Claimed",
+    "next_in": "Next in",
+    "hours": "h",
+    "minutes": "m",
+    "seconds": "s",
+    "streak_bonus": "Streak Bonus!",
+    "streak_7_desc": "7 days in a row — 5x bonus!",
+    "reward": "Reward"
+  },
+  "profile": {
+    "title": "Profile",
+    "stats": "Stats",
+    "play_time": "Play Time",
+    "total_digs_stat": "Total Digs",
+    "layer_reached": "Layer Reached",
+    "balance_stat": "Balance",
+    "referrals": "Referrals",
+    "referral_link": "Your Referral",
+    "copy_link": "Copy Link",
+    "link_copied": "Copied!",
+    "referral_info": "Invite a friend — both get 50 Carbonance!",
+    "referral_count": "Friends Invited",
+    "settings": "Settings",
+    "hours_in_mine": "h in the mine",
+    "minutes_in_mine": "min in the mine"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "language_saved": "Language saved",
+    "haptic": "Haptics",
+    "haptic_desc": "Vibration on interactions",
+    "remove_ads": "Remove Ads",
+    "remove_ads_desc": "Permanently remove all ads",
+    "about": "About",
+    "version": "Version"
+  },
+  "ads": {
+    "boost_dig_title": "Dig Boost",
+    "boost_dig_desc": "Next 10 digs give +200% Carbonance",
+    "treasure_double_title": "Double Treasure",
+    "treasure_double_desc": "Double the current find",
+    "speed_up_title": "Speed Up",
+    "speed_up_desc": "1 minute of free digging",
+    "watch_for": "Watch for",
+    "watching": "Watching...",
+    "reward_granted": "Reward granted!",
+    "ad_rewards": "Ad Rewards",
+    "remove_ads_promo": "Remove ads forever"
+  },
+  "errors": {
+    "login_failed": "Login failed",
+    "dig_failed": "Dig failed",
+    "upgrade_failed": "Upgrade failed",
+    "daily_failed": "Daily reward failed",
+    "already_claimed": "Already claimed today",
+    "not_enough_currency": "Not enough Carbonance",
+    "generic": "Something went wrong. Please try again.",
+    "network": "Network error"
+  },
+  "loading": {
+    "title": "Deep Carbon",
+    "subtitle": "Loading mine...",
+    "initializing": "Initializing..."
+  }
+}
